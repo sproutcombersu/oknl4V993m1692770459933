@@ -32,7 +32,7 @@ public class ManifestProcessor : IPreprocessBuildWithReport
 public class ManifestProcessor : IPreprocessBuild
 #endif
 {
-    private static string ADMOB_APP_ID = "ca-app-pub-3940256099942544~3347511713";
+        private static string ADMOB_APP_ID = "ca-app-pub-3940256099942544~3347511713";
     private const string MANIFEST_RELATIVE_PATH =
             "Plugins/Android/GoogleMobileAdsPlugin.androidlib/AndroidManifest.xml";
 

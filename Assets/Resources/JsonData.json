@@ -1,0 +1,22 @@
+{
+    "mainMenu": {
+        "urlBgMenu": "",
+        "urlTitleMenu": "",
+        "urlPaintBookMenu": "",
+        "urlColoringBookMenu": ""
+     },
+    "listColoring" : [
+        {
+            "image" : "Images/000",
+            "isLock": false
+        },
+        {
+            "image" : "Images/001",
+            "isLock": false
+        },
+        {
+            "image" : "Images/002",
+            "isLock": true
+        }
+    ]
+}
